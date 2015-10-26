@@ -1,12 +1,7 @@
 <?php
-/**
-* FFmpeg PHP Class
-* 
-* @package		FFmpeg
-* @version		0.1.3
-* @license		http://opensource.org/licenses/gpl-license.php  GNU Public License
-* @author		Olaf Erlandsen <olaftriskel@gmail.com>
-*/
+
+namespace PHPFFmpeg;
+
 class FFmpeg
 {
 	/**
